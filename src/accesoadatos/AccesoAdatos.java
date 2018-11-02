@@ -8,7 +8,7 @@ import java.time.Month;
 
 public class AccesoAdatos {
 
-
+//Aca arranca la aplicacion
     public static void main(String[] args) {
    
        Alumno alumno1 = new Alumno("Juan Lopez", LocalDate.of(2010,Month.DECEMBER, 12), true);
